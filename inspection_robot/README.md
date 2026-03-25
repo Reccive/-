@@ -147,7 +147,6 @@ inspection_robot/
 ## 🤝 联系方式
 
 **开发者**：李豪
-**邮箱**：[your_email@example.com]
 **日期**：2026年3月
 
 ---
